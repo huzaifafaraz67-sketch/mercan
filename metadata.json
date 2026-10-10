@@ -1,0 +1,10 @@
+{
+  "name": "Mercan AI Companion",
+  "description": "Talk nicely with Mercan featuring voice microphone conversation, AI photo creation, and cinematic video generation.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
